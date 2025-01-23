@@ -1,6 +1,8 @@
 # RaGPT: AI Assistant for Production Analytics
 
 ## Overview
+This project comes from the idea of improving the already existing AI assistant built by a group of students of the University of Pisa, for a management system of a production site. Their work can be found [here][https://github.com/sa-team-d/rag].
+
 RaGPT is a refined AI assistant designed to enhance production site analytics by providing a streamlined and practical workflow. It builds upon the initial RAG (Retrieval-Augmented Generation) architecture to deliver a more versatile system capable of general-purpose queries, KPI computation, insights, and actionable suggestions for improving production efficiency.
 
 ## Features
@@ -11,7 +13,7 @@ RaGPT is a refined AI assistant designed to enhance production site analytics by
 
 ## Implementation
 - **OpenAI API**: Utilizes the `gpt-4o-mini` model with file search and function-calling capabilities for enhanced performance.
-- **Knowledge Base**: Data from the MongoDB database (Group 2) has been structured into a JSON file for fast retrieval.
+- **Knowledge Base**: Data from the original MongoDB database has been structured into a JSON file for fast retrieval.
 - **Tools**:
   - `file_search`: Implements a retrieval-based approach for document queries.
   - `function_calling`: Executes user-defined functions to compute KPIs and process queries.
