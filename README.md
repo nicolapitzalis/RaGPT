@@ -1,7 +1,7 @@
 # RaGPT: AI Assistant for Production Analytics
 
 ## Overview
-This project comes from the idea of improving the already existing AI assistant built by a group of students of the University of Pisa, for a management system of a production site. Their work can be found [here][https://github.com/sa-team-d/rag].
+This project comes from the idea of improving the already existing AI assistant built by a group of students of the University of Pisa, for a management system of a production site. Their work can be found [here](https://github.com/sa-team-d/rag).
 
 RaGPT is a refined AI assistant designed to enhance production site analytics by providing a streamlined and practical workflow. It builds upon the initial RAG (Retrieval-Augmented Generation) architecture to deliver a more versatile system capable of general-purpose queries, KPI computation, insights, and actionable suggestions for improving production efficiency.
 
