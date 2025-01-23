@@ -1,0 +1,527 @@
+{
+    "general_info": {
+        "site_count": 1,
+        "machine_count": 16,
+        "kpi_count": 17
+    },
+    "site_id": 1,
+    "machines": [
+        {
+            "_id": "6740f1cfa8e3f95f42703128",
+            "name": "Large Capacity Cutting Machine 1",
+            "category": "Metal cutter",
+            "asset_id": "ast-yhccl1zjue2t",
+            "kpis_ids": [
+                "673a6ad2d9e0b151b88cbed0",
+                "673a6ad2d9e0b151b88cbed1",
+                "673a6ad3d9e0b151b88cbed2",
+                "673a6ad3d9e0b151b88cbed3",
+                "673a6ad4d9e0b151b88cbed4",
+                "673a6ad4d9e0b151b88cbed5",
+                "673a6ad4d9e0b151b88cbed6",
+                "673a6ad5d9e0b151b88cbed7",
+                "673a6ad5d9e0b151b88cbed8",
+                "673a6ad5d9e0b151b88cbed9",
+                "673a6ad6d9e0b151b88cbeda",
+                "673a6ad7d9e0b151b88cbedb",
+                "673a6ad8d9e0b151b88cbedc",
+                "673a6ad8d9e0b151b88cbedd"
+            ]
+        },
+        {
+            "_id": "6740f1cfa8e3f95f42703129",
+            "name": "Riveting Machine",
+            "category": "Rivetter",
+            "asset_id": "ast-o8xtn5xa8y87",
+            "kpis_ids": [
+                "673a6ad2d9e0b151b88cbed0",
+                "673a6ad2d9e0b151b88cbed1",
+                "673a6ad3d9e0b151b88cbed2",
+                "673a6ad3d9e0b151b88cbed3",
+                "673a6ad4d9e0b151b88cbed4",
+                "673a6ad4d9e0b151b88cbed5",
+                "673a6ad4d9e0b151b88cbed6",
+                "673a6ad5d9e0b151b88cbed7",
+                "673a6ad5d9e0b151b88cbed8",
+                "673a6ad5d9e0b151b88cbed9",
+                "673a6ad6d9e0b151b88cbeda",
+                "673a6ad7d9e0b151b88cbedb",
+                "673a6ad8d9e0b151b88cbedc",
+                "673a6ad8d9e0b151b88cbedd"
+            ]
+        },
+        {
+            "_id": "6740f1cfa8e3f95f4270312a",
+            "name": "Medium Capacity Cutting Machine 1",
+            "category": "Metal cutter",
+            "asset_id": "ast-ha448od5d6bd",
+            "kpis_ids": [
+                "673a6ad2d9e0b151b88cbed0",
+                "673a6ad2d9e0b151b88cbed1",
+                "673a6ad3d9e0b151b88cbed2",
+                "673a6ad3d9e0b151b88cbed3",
+                "673a6ad4d9e0b151b88cbed4",
+                "673a6ad4d9e0b151b88cbed5",
+                "673a6ad4d9e0b151b88cbed6",
+                "673a6ad5d9e0b151b88cbed7",
+                "673a6ad5d9e0b151b88cbed8",
+                "673a6ad5d9e0b151b88cbed9",
+                "673a6ad6d9e0b151b88cbeda",
+                "673a6ad7d9e0b151b88cbedb",
+                "673a6ad8d9e0b151b88cbedc",
+                "673a6ad8d9e0b151b88cbedd"
+            ]
+        },
+        {
+            "_id": "6740f1cfa8e3f95f4270312b",
+            "name": "Laser Cutter",
+            "category": "Laser Cutter",
+            "asset_id": "ast-xpimckaf3dlf",
+            "kpis_ids": [
+                "673a6ad2d9e0b151b88cbed0",
+                "673a6ad2d9e0b151b88cbed1",
+                "673a6ad3d9e0b151b88cbed2",
+                "673a6ad3d9e0b151b88cbed3",
+                "673a6ad4d9e0b151b88cbed4",
+                "673a6ad4d9e0b151b88cbed5",
+                "673a6ad4d9e0b151b88cbed6",
+                "673a6ad5d9e0b151b88cbed7",
+                "673a6ad5d9e0b151b88cbed8",
+                "673a6ad5d9e0b151b88cbed9",
+                "673a6ad6d9e0b151b88cbeda",
+                "673a6ad7d9e0b151b88cbedb",
+                "673a6ad8d9e0b151b88cbedc",
+                "673a6ad8d9e0b151b88cbedd"
+            ]
+        },
+        {
+            "_id": "6740f1cfa8e3f95f4270312c",
+            "name": "Large Capacity Cutting Machine 2",
+            "category": "Metal cutter",
+            "asset_id": "ast-6votor3o4i9l",
+            "kpis_ids": [
+                "673a6ad2d9e0b151b88cbed0",
+                "673a6ad2d9e0b151b88cbed1",
+                "673a6ad3d9e0b151b88cbed2",
+                "673a6ad3d9e0b151b88cbed3",
+                "673a6ad4d9e0b151b88cbed4",
+                "673a6ad4d9e0b151b88cbed5",
+                "673a6ad4d9e0b151b88cbed6",
+                "673a6ad5d9e0b151b88cbed7",
+                "673a6ad5d9e0b151b88cbed8",
+                "673a6ad5d9e0b151b88cbed9",
+                "673a6ad6d9e0b151b88cbeda",
+                "673a6ad7d9e0b151b88cbedb",
+                "673a6ad8d9e0b151b88cbedc",
+                "673a6ad8d9e0b151b88cbedd"
+            ]
+        },
+        {
+            "_id": "6740f1cfa8e3f95f4270312d",
+            "name": "Medium Capacity Cutting Machine 2",
+            "category": "Metal cutter",
+            "asset_id": "ast-5aggxyk5hb36",
+            "kpis_ids": [
+                "673a6ad2d9e0b151b88cbed0",
+                "673a6ad2d9e0b151b88cbed1",
+                "673a6ad3d9e0b151b88cbed2",
+                "673a6ad3d9e0b151b88cbed3",
+                "673a6ad4d9e0b151b88cbed4",
+                "673a6ad4d9e0b151b88cbed5",
+                "673a6ad4d9e0b151b88cbed6",
+                "673a6ad5d9e0b151b88cbed7",
+                "673a6ad5d9e0b151b88cbed8",
+                "673a6ad5d9e0b151b88cbed9",
+                "673a6ad6d9e0b151b88cbeda",
+                "673a6ad7d9e0b151b88cbedb",
+                "673a6ad8d9e0b151b88cbedc",
+                "673a6ad8d9e0b151b88cbedd"
+            ]
+        },
+        {
+            "_id": "6740f1cfa8e3f95f4270312e",
+            "name": "Testing Machine 1",
+            "category": "Tester",
+            "asset_id": "ast-nrd4vl07sffd",
+            "kpis_ids": [
+                "673a6ad2d9e0b151b88cbed0",
+                "673a6ad2d9e0b151b88cbed1",
+                "673a6ad3d9e0b151b88cbed2",
+                "673a6ad3d9e0b151b88cbed3",
+                "673a6ad4d9e0b151b88cbed4",
+                "673a6ad4d9e0b151b88cbed5",
+                "673a6ad4d9e0b151b88cbed6",
+                "673a6ad5d9e0b151b88cbed7",
+                "673a6ad5d9e0b151b88cbed8",
+                "673a6ad5d9e0b151b88cbed9",
+                "673a6ad6d9e0b151b88cbeda",
+                "673a6ad7d9e0b151b88cbedb",
+                "673a6ad8d9e0b151b88cbedc",
+                "673a6ad8d9e0b151b88cbedd"
+            ]
+        },
+        {
+            "_id": "6740f1cfa8e3f95f4270312f",
+            "name": "Testing Machine 2",
+            "category": "Tester",
+            "asset_id": "ast-pu7dfrxjf2ms",
+            "kpis_ids": [
+                "673a6ad2d9e0b151b88cbed0",
+                "673a6ad2d9e0b151b88cbed1",
+                "673a6ad3d9e0b151b88cbed2",
+                "673a6ad3d9e0b151b88cbed3",
+                "673a6ad4d9e0b151b88cbed4",
+                "673a6ad4d9e0b151b88cbed5",
+                "673a6ad4d9e0b151b88cbed6",
+                "673a6ad5d9e0b151b88cbed7",
+                "673a6ad5d9e0b151b88cbed8",
+                "673a6ad5d9e0b151b88cbed9",
+                "673a6ad6d9e0b151b88cbeda",
+                "673a6ad7d9e0b151b88cbedb",
+                "673a6ad8d9e0b151b88cbedc",
+                "673a6ad8d9e0b151b88cbedd"
+            ]
+        },
+        {
+            "_id": "6740f1cfa8e3f95f42703130",
+            "name": "Low Capacity Cutting Machine 1",
+            "category": "Metal cutter",
+            "asset_id": "ast-6nv7viesiao7",
+            "kpis_ids": [
+                "673a6ad2d9e0b151b88cbed0",
+                "673a6ad2d9e0b151b88cbed1",
+                "673a6ad3d9e0b151b88cbed2",
+                "673a6ad3d9e0b151b88cbed3",
+                "673a6ad4d9e0b151b88cbed4",
+                "673a6ad4d9e0b151b88cbed5",
+                "673a6ad4d9e0b151b88cbed6",
+                "673a6ad5d9e0b151b88cbed7",
+                "673a6ad5d9e0b151b88cbed8",
+                "673a6ad5d9e0b151b88cbed9",
+                "673a6ad6d9e0b151b88cbeda",
+                "673a6ad7d9e0b151b88cbedb",
+                "673a6ad8d9e0b151b88cbedc",
+                "673a6ad8d9e0b151b88cbedd"
+            ]
+        },
+        {
+            "_id": "6740f1cfa8e3f95f42703131",
+            "name": "Medium Capacity Cutting Machine 3",
+            "category": "Metal cutter",
+            "asset_id": "ast-anxkweo01vv2",
+            "kpis_ids": [
+                "673a6ad2d9e0b151b88cbed0",
+                "673a6ad2d9e0b151b88cbed1",
+                "673a6ad3d9e0b151b88cbed2",
+                "673a6ad3d9e0b151b88cbed3",
+                "673a6ad4d9e0b151b88cbed4",
+                "673a6ad4d9e0b151b88cbed5",
+                "673a6ad4d9e0b151b88cbed6",
+                "673a6ad5d9e0b151b88cbed7",
+                "673a6ad5d9e0b151b88cbed8",
+                "673a6ad5d9e0b151b88cbed9",
+                "673a6ad6d9e0b151b88cbeda",
+                "673a6ad7d9e0b151b88cbedb",
+                "673a6ad8d9e0b151b88cbedc",
+                "673a6ad8d9e0b151b88cbedd"
+            ]
+        },
+        {
+            "_id": "6740f1cfa8e3f95f42703132",
+            "name": "Assembly Machine 1",
+            "category": "Assembler",
+            "asset_id": "ast-pwpbba0ewprp",
+            "kpis_ids": [
+                "673a6ad2d9e0b151b88cbed0",
+                "673a6ad2d9e0b151b88cbed1",
+                "673a6ad3d9e0b151b88cbed2",
+                "673a6ad3d9e0b151b88cbed3",
+                "673a6ad4d9e0b151b88cbed4",
+                "673a6ad4d9e0b151b88cbed5",
+                "673a6ad4d9e0b151b88cbed6",
+                "673a6ad5d9e0b151b88cbed7",
+                "673a6ad5d9e0b151b88cbed8",
+                "673a6ad5d9e0b151b88cbed9",
+                "673a6ad6d9e0b151b88cbeda",
+                "673a6ad7d9e0b151b88cbedb",
+                "673a6ad8d9e0b151b88cbedc",
+                "673a6ad8d9e0b151b88cbedd"
+            ]
+        },
+        {
+            "_id": "6740f1cfa8e3f95f42703133",
+            "name": "Laser Welding Machine 1",
+            "category": "Laser Welder",
+            "asset_id": "ast-hnsa8phk2nay",
+            "kpis_ids": [
+                "673a6ad2d9e0b151b88cbed0",
+                "673a6ad2d9e0b151b88cbed1",
+                "673a6ad3d9e0b151b88cbed2",
+                "673a6ad3d9e0b151b88cbed3",
+                "673a6ad4d9e0b151b88cbed4",
+                "673a6ad4d9e0b151b88cbed5",
+                "673a6ad4d9e0b151b88cbed6",
+                "673a6ad5d9e0b151b88cbed7",
+                "673a6ad5d9e0b151b88cbed8",
+                "673a6ad5d9e0b151b88cbed9",
+                "673a6ad6d9e0b151b88cbeda",
+                "673a6ad7d9e0b151b88cbedb",
+                "673a6ad8d9e0b151b88cbedc",
+                "673a6ad8d9e0b151b88cbedd"
+            ]
+        },
+        {
+            "_id": "6740f1cfa8e3f95f42703134",
+            "name": "Assembly Machine 2",
+            "category": "Assembler",
+            "asset_id": "ast-upqd50xg79ir",
+            "kpis_ids": [
+                "673a6ad2d9e0b151b88cbed0",
+                "673a6ad2d9e0b151b88cbed1",
+                "673a6ad3d9e0b151b88cbed2",
+                "673a6ad3d9e0b151b88cbed3",
+                "673a6ad4d9e0b151b88cbed4",
+                "673a6ad4d9e0b151b88cbed5",
+                "673a6ad4d9e0b151b88cbed6",
+                "673a6ad5d9e0b151b88cbed7",
+                "673a6ad5d9e0b151b88cbed8",
+                "673a6ad5d9e0b151b88cbed9",
+                "673a6ad6d9e0b151b88cbeda",
+                "673a6ad7d9e0b151b88cbedb",
+                "673a6ad8d9e0b151b88cbedc",
+                "673a6ad8d9e0b151b88cbedd"
+            ]
+        },
+        {
+            "_id": "6740f1cfa8e3f95f42703135",
+            "name": "Assembly Machine 3",
+            "category": "Assembler",
+            "asset_id": "ast-sfio4727eub0",
+            "kpis_ids": [
+                "673a6ad2d9e0b151b88cbed0",
+                "673a6ad2d9e0b151b88cbed1",
+                "673a6ad3d9e0b151b88cbed2",
+                "673a6ad3d9e0b151b88cbed3",
+                "673a6ad4d9e0b151b88cbed4",
+                "673a6ad4d9e0b151b88cbed5",
+                "673a6ad4d9e0b151b88cbed6",
+                "673a6ad5d9e0b151b88cbed7",
+                "673a6ad5d9e0b151b88cbed8",
+                "673a6ad5d9e0b151b88cbed9",
+                "673a6ad6d9e0b151b88cbeda",
+                "673a6ad7d9e0b151b88cbedb",
+                "673a6ad8d9e0b151b88cbedc",
+                "673a6ad8d9e0b151b88cbedd"
+            ]
+        },
+        {
+            "_id": "6740f1cfa8e3f95f42703136",
+            "name": "Laser Welding Machine 2",
+            "category": "Laser Welder",
+            "asset_id": "ast-206phi0b9v6p",
+            "kpis_ids": [
+                "673a6ad2d9e0b151b88cbed0",
+                "673a6ad2d9e0b151b88cbed1",
+                "673a6ad3d9e0b151b88cbed2",
+                "673a6ad3d9e0b151b88cbed3",
+                "673a6ad4d9e0b151b88cbed4",
+                "673a6ad4d9e0b151b88cbed5",
+                "673a6ad4d9e0b151b88cbed6",
+                "673a6ad5d9e0b151b88cbed7",
+                "673a6ad5d9e0b151b88cbed8",
+                "673a6ad5d9e0b151b88cbed9",
+                "673a6ad6d9e0b151b88cbeda",
+                "673a6ad7d9e0b151b88cbedb",
+                "673a6ad8d9e0b151b88cbedc",
+                "673a6ad8d9e0b151b88cbedd"
+            ]
+        },
+        {
+            "_id": "6740f1cfa8e3f95f42703137",
+            "name": "Testing Machine 3",
+            "category": "Tester",
+            "asset_id": "ast-06kbod797nnp",
+            "kpis_ids": [
+                "673a6ad2d9e0b151b88cbed0",
+                "673a6ad2d9e0b151b88cbed1",
+                "673a6ad3d9e0b151b88cbed2",
+                "673a6ad3d9e0b151b88cbed3",
+                "673a6ad4d9e0b151b88cbed4",
+                "673a6ad4d9e0b151b88cbed5",
+                "673a6ad4d9e0b151b88cbed6",
+                "673a6ad5d9e0b151b88cbed7",
+                "673a6ad5d9e0b151b88cbed8",
+                "673a6ad5d9e0b151b88cbed9",
+                "673a6ad6d9e0b151b88cbeda",
+                "673a6ad7d9e0b151b88cbedb",
+                "673a6ad8d9e0b151b88cbedc",
+                "673a6ad8d9e0b151b88cbedd"
+            ]
+        }
+    ],
+    "data": [
+        {
+            "_id": "673a6ad2d9e0b151b88cbed0",
+            "name": "working_time",
+            "type": "Time",
+            "description": "placeholder",
+            "unite_of_measure": "Minutes"
+        },
+        {
+            "_id": "673a6ad2d9e0b151b88cbed1",
+            "name": "idle_time",
+            "type": "Time",
+            "description": "placeholder",
+            "unite_of_measure": "Minutes"
+        },
+        {
+            "_id": "673a6ad3d9e0b151b88cbed2",
+            "name": "offline_time",
+            "type": "Time",
+            "description": "placeholder",
+            "unite_of_measure": "Minutes"
+        },
+        {
+            "_id": "673a6ad3d9e0b151b88cbed3",
+            "name": "consumption",
+            "type": "Consumption",
+            "description": "placeholder",
+            "unite_of_measure": "kWh"
+        },
+        {
+            "_id": "673a6ad4d9e0b151b88cbed4",
+            "name": "power",
+            "type": "Efficiency",
+            "description": "placeholder",
+            "unite_of_measure": "Percentage"
+        },
+        {
+            "_id": "673a6ad4d9e0b151b88cbed5",
+            "name": "consumption_working",
+            "type": "Consumption",
+            "description": "placeholder",
+            "unite_of_measure": "kWh"
+        },
+        {
+            "_id": "673a6ad4d9e0b151b88cbed6",
+            "name": "consumption_idle",
+            "type": "Consumption",
+            "description": "placeholder",
+            "unite_of_measure": "kWh"
+        },
+        {
+            "_id": "673a6ad5d9e0b151b88cbed7",
+            "name": "cost",
+            "type": "Cost",
+            "description": "placeholder",
+            "unite_of_measure": "Currency"
+        },
+        {
+            "_id": "673a6ad5d9e0b151b88cbed8",
+            "name": "cost_working",
+            "type": "Cost",
+            "description": "placeholder",
+            "unite_of_measure": "Currency"
+        },
+        {
+            "_id": "673a6ad5d9e0b151b88cbed9",
+            "name": "cost_idle",
+            "type": "Cost",
+            "description": "placeholder",
+            "unite_of_measure": "Currency"
+        },
+        {
+            "_id": "673a6ad6d9e0b151b88cbeda",
+            "name": "cycles",
+            "type": "Efficiency",
+            "description": "placeholder",
+            "unite_of_measure": "Units"
+        },
+        {
+            "_id": "673a6ad7d9e0b151b88cbedb",
+            "name": "good_cycles",
+            "type": "Quality",
+            "description": "placeholder",
+            "unite_of_measure": "units"
+        },
+        {
+            "_id": "673a6ad8d9e0b151b88cbedc",
+            "name": "bad_cycles",
+            "type": "Quality",
+            "description": "placeholder",
+            "unite_of_measure": "units"
+        },
+        {
+            "_id": "673a6ad8d9e0b151b88cbedd",
+            "name": "average_cycle_time",
+            "type": "Time",
+            "description": "placeholder",
+            "unite_of_measure": "Minutes"
+        },
+        {
+            "_id": "675dca35bdc5654aee19df33",
+            "name": "overall_energy_efficiency",
+            "type": "Efficiency",
+            "description": "Measures the overall energy efficiency of the production process by considering both idle energy consumption and working energy consumption",
+            "unite_of_measure": "Ratio"
+        },
+        {
+            "_id": "6762aa20dc31825ce643fa03",
+            "name": "cycle_time_ratio",
+            "type": "Efficiency",
+            "description": "Ratio of cycle time to total working time",
+            "unite_of_measure": "Percentage"
+        },
+        {
+            "_id": "6777ff388093441c748bfd6e",
+            "name": "energy_cost_ratio",
+            "type": "Efficiency",
+            "description": "Ratio of energy cost to total production cost",
+            "unite_of_measure": "Percentage"
+        }
+    ],
+    "cost_prediction_data" : {
+        "Testing Machines": 0.010329395319865256,
+        "Metal Cutting Machines": 0.04637815462858034,
+        "Laser Cutter": 0.0005160956082603602,
+        "Assembly Machines": 0.007193601533433455,
+        "Riveting Machine": 0.009630899430778293,
+        "Laser Welding Machines": 0.023551859302206688
+  },
+  "utilization_data" : {
+        "Assembly Machine 1": 0.7296168144672052,
+        "Laser Cutter": 0.7133254505802838,
+        "Assembly Machine 2": 0.6512304181921241,
+        "Laser Welding Machine 1": 0.6318166296651799,
+        "Low Capacity Cutting Machine 1": 0.5309211020844607,
+        "Riveting Machine": 0.5239875385630702,
+        "Testing Machine 3": 0.5130672106001118,
+        "Testing Machine 2": 0.3916499889917053,
+        "Assembly Machine 3": 0.34396030393639204,
+        "Laser Welding Machine 2": 0.3254009269969588,
+        "Large Capacity Cutting Machine 2": 0.29546711720282665,
+        "Large Capacity Cutting Machine 1": 0.21444010156644838,
+        "Medium Capacity Cutting Machine 1": 0.20976462895643624,
+        "Medium Capacity Cutting Machine 2": 0.07068717738062205,
+        "Medium Capacity Cutting Machine 3": 0.058858120003513856,
+        "Testing Machine 1": 0.002657429652367055
+  },
+  "energy_efficiency_data" : {
+        "Testing Machine 3": 0.0,
+        "Testing Machine 2": 0.003305897555474169,
+        "Laser Cutter": 0.025994032221087916,
+        "Low Capacity Cutting Machine 1": 0.02831853305591658,
+        "Assembly Machine 2": 0.07108557042553068,
+        "Assembly Machine 3": 0.08959678406509398,
+        "Laser Welding Machine 1": 0.13044239797815696,
+        "Medium Capacity Cutting Machine 3": 0.17869265637561005,
+        "Testing Machine 1": 0.18376660997739142,
+        "Assembly Machine 1": 0.18989313186292664,
+        "Laser Welding Machine 2": 0.20274847160138532,
+        "Large Capacity Cutting Machine 1": 0.22245912392915823,
+        "Riveting Machine": 0.3245563678129189,
+        "Medium Capacity Cutting Machine 2": 0.3723443960181457,
+        "Large Capacity Cutting Machine 2": 0.382136653658655,
+        "Medium Capacity Cutting Machine 1": 0.3917457036691058
+  }
+}
