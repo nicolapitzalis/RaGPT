@@ -1,5 +1,8 @@
 # RaGPT: AI Assistant for Production Analytics
 
+## Installation
+In order to run the notebook, it is required to have the proprietary API running. To run it locally we refer the user [here](https://github.com/sa-team-d/api), as he can find all the documentation needed. Make sure to follow the instructions correctly and to have the API running locally, as this is a strict requirement for the notebook to be running.
+
 ## Overview
 This project comes from the idea of improving the already existing AI assistant built by a group of students of the University of Pisa, for a management system of a production site. Their work can be found [here](https://github.com/sa-team-d/rag).
 
